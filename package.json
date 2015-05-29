@@ -1,0 +1,25 @@
+{
+  "name": "aggregateTransform",
+  "version": "0.0.1",
+  "description": "A Node.js module for converting arrays of objects into aggregated, complex objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/courvillejustin/aggregateTransform.git"
+  },
+  "keywords": [
+    "aggregate",
+    "transform",
+    "object",
+    "template"
+  ],
+  "author": "Justin Courville <justinacourville@gmail.com> (http://www.sinect.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/courvillejustin/aggregateTransform/issues"
+  },
+  "homepage": "https://github.com/courvillejustin/aggregateTransform"
+}

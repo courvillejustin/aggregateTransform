@@ -1,4 +1,4 @@
-# aggregateransform
+# aggregatetransform
 
 A Node.js module for converting arrays of objects into aggregated, complex objects.
 

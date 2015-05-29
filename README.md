@@ -1,6 +1,12 @@
-#aggregateTransform
+# aggregateransform
 
 A Node.js module for converting arrays of objects into aggregated, complex objects.
+
+
+## Install
+```
+$ npm install --save aggregatetransform
+```
 
 ## Example use
 ```js

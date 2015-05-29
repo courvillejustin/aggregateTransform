@@ -1,5 +1,5 @@
 {
-  "name": "aggregateTransform",
+  "name": "aggregatetransform",
   "version": "0.0.1",
   "description": "A Node.js module for converting arrays of objects into aggregated, complex objects.",
   "main": "index.js",

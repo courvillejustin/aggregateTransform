@@ -3,7 +3,7 @@
 A Node.js module for converting arrays of objects into aggregated, complex objects.
 
 ## Example use
-'''js
+```js
 var t = require('aggregateTransform');
 
 var template = {
@@ -52,7 +52,7 @@ console.log(obj);
 
 ## Result:
 
-'''js
+```js
 {
   "1000002": {
     "revenueYearMonth": {
